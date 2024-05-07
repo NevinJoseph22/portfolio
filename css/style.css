@@ -45,6 +45,10 @@ ul{
     z-index: 0;
     opacity:1;
 }
+.container
+{
+    max-width: 1;
+}
 
 .aside
 {
